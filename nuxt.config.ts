@@ -4,5 +4,5 @@ export default defineNuxtConfig({
   modules: [
     '@invictus.codes/nuxt-vuetify'
   ],
-  extends:["github: Liliane97/projeto-secundario"]
+  extends:["github:Liliane97/projeto-secundario","github:Liliane97/componente-slide-teste"]
 })

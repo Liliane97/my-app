@@ -1,5 +1,8 @@
 <template>
+<div>
+  <Slider/>
+</div>
   <div>
-    <NuxtWelcome />
+<FormSatisfacao/>
   </div>
 </template>
